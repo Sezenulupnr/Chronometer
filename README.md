@@ -1,6 +1,5 @@
 # Chronometer
 Chronometer application with kotlin
-
-![Ekran Görüntüsü (5)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/7ab97017-62bb-4add-ab05-6cf442341c20)
-![Ekran Görüntüsü (4)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/be763b6c-a7d4-43a7-84dc-7d75444831f6)
-![Ekran Görüntüsü (3)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/0cc267be-476a-48b3-a26c-37c53a922d75)
+![Ekran Görüntüsü (3)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/cab8fedd-2cf6-4d80-b1ac-b7d656e0b1a1)
+![Ekran Görüntüsü (4)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/eb26b354-b4b9-4eaf-8e80-94bbf0f253fd)
+![Ekran Görüntüsü (5)](https://github.com/Sezenulupnr/Chronometer/assets/104523675/18ccc16c-4ba8-462f-9039-37f8e11519f9)
